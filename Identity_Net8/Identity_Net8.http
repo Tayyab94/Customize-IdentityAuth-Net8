@@ -1,0 +1,6 @@
+@Identity_Net8_HostAddress = http://localhost:5266
+
+GET {{Identity_Net8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
